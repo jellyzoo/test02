@@ -7,3 +7,7 @@
 
 
 
+$ yarn install
+$ yarn add axios
+
+
